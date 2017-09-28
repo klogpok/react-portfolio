@@ -5,7 +5,7 @@ class About extends Component {
 
 		if (this.props.data) {
 			var name = this.props.data.name;
-			var image = this.props.data.image;
+			var image = `images/${this.props.data.image}`;
 			var about = this.props.data.bio;
 			var phone = this.props.data.phone;
 			var email = this.props.data.email;
@@ -21,7 +21,7 @@ class About extends Component {
 
 					<div className="three columns">
 
-						<img className="profile-pic"  src="images/me.jpg" alt="" />
+						<img className="profile-pic"  src={image} alt="" />
 
 					</div>
 

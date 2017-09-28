@@ -145,7 +145,7 @@
         "tags":"",
         "image":"portfolio.png",
         "url":"http://dev-go.xyz",
-        "git": "https://bitbucket.org/klogpok/muse",
+        "git": "https://github.com/klogpok/react-portfolio",
         "modal":"modal-01"
       },
       {
@@ -159,6 +159,36 @@
         "modal":"#modal-04"
       },
       {
+        "title":"Meme generator",
+        "description":"",
+        "category":"JavaScript, Canvas",
+        "tags":"",
+        "git": "https://github.com/tuval1/sprint2",
+        "image":"meme.png",
+        "url":"http://dev-go.xyz/projects/meme/",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"Notes App",
+        "description":"",
+        "category":"React.js, Web Development",
+        "tags":"",
+        "git": "https://github.com/klogpok/notes-app",
+        "image":"notes.jpeg",
+        "url":"http://dev-go.xyz/projects/notes-app/",
+        "modal":"#modal-08"
+      },
+      {
+        "title":"Wixer",
+        "description":"",
+        "category":"Vue.js, Web Development",
+        "tags":"",
+        "git": "https://github.com/Lariska/final-sprint",
+        "image":"wix.jpg",
+        "url":"https://coding-final-sprint.herokuapp.com/#/",
+        "modal":"#modal-08"
+      },
+      {
         "title":"Touch the numbers",
         "description":"",
         "category":"Vanilla JavaScript, Games",
@@ -167,16 +197,6 @@
         "image":"touch2.png",
         "url":"http://dev-go.xyz/projects/touch/",
         "modal":"#modal-02"
-      },
-      {
-        "title":"Minesweeper",
-        "description":"",
-        "category":"Vanilla JavaScript, Games",
-        "tags":"Branding, Web Programming",
-        "git": "https://github.com/klogpok/minesweeper",
-        "image":"minesweeper2.png",
-        "url":"http://dev-go.xyz/projects/minesweeper/",
-        "modal":"#modal-03"
       },
       {
         "title":"BooksAreUs",
@@ -189,6 +209,16 @@
         "modal":"#modal-05"
       },
       {
+        "title":"Minesweeper",
+        "description":"",
+        "category":"Vanilla JavaScript, Games",
+        "tags":"Branding, Web Programming",
+        "git": "https://github.com/klogpok/minesweeper",
+        "image":"minesweeper2.png",
+        "url":"http://dev-go.xyz/projects/minesweeper/",
+        "modal":"#modal-03"
+      },
+      {
         "title":"Calculator",
         "description":"",
         "category":"Vanilla JavaScript",
@@ -197,26 +227,6 @@
         "image":"calc2.jpg",
         "url":"http://dev-go.xyz/projects/calc/",
         "modal":"#modal-06"
-      },
-      {
-        "title":"Meme generator",
-        "description":"",
-        "category":"JavaScript, Canvas",
-        "tags":"",
-        "git": "https://github.com/tuval1/sprint2",
-        "image":"meme.png",
-        "url":"http://dev-go.xyz/projects/meme/",
-        "modal":"#modal-07"
-      },
-      {
-        "title":"Wixer",
-        "description":"",
-        "category":"Vue.js, Web Development",
-        "tags":"",
-        "git": "https://github.com/Lariska/final-sprint",
-        "image":"wix.jpg",
-        "url":"https://coding-final-sprint.herokuapp.com/#/",
-        "modal":"#modal-08"
       }
     ]
   }

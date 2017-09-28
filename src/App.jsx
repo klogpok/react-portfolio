@@ -6,8 +6,6 @@ import Header from './components/Header';
 import About from './components/About';
 import Resume from './components/Resume';
 import Portfolio from './components/Portfolio';
-import Testimonials from './components/Testimonials';
-import Contact from './components/Contact';
 import Footer from './components/Footer';
 
 class App extends Component {
@@ -23,7 +21,7 @@ class App extends Component {
 
 	getResumeData() {
 		$.ajax({
-			url: "http://localhost:3000/resumeData.json",
+			url: "resumeData.json",
 			dataType: 'json',
 			cache: false,
 			success: function(data) {

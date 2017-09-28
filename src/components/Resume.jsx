@@ -4,8 +4,6 @@ class Resume extends Component {
 	render() {
 
 		if (this.props.data) {
-			var name = this.props.data.name;
-			var description = this.props.data.description;
 
 			var education = this.props.data.education.map( (edu, index) => {
 				return (
