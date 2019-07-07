@@ -1,0 +1,233 @@
+{
+  "main": {
+    "name":"Oleg Kleiman",
+    "occupation":"Web developer",
+    "description":"I design and program websites and web applications.",
+    "image":"me.jpg",
+    "bio": "Conscientious, results-driven, curious web developer primarily focusing on frontend development. Excellent written and verbal communication skills. Interested in challenging technical roles in scaling distributed web applications.",
+    "email": "kloleg@gmail.com",
+    "phone": "054-8054585",
+    "address":{
+      "street":"Gluskin Ave, 36",
+      "city":"Rehovot",
+      "state":"HaMerkaz",
+      "zip": "76470"
+    },
+    "website": "http://dev-go.xyz/",
+    "resumedownload":"http://something.com",
+    "social":[
+      {
+        "name":"email",
+        "url":"mailto:kloleg@google.com",
+        "className":"fa fa-envelope-o"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/oleg-kleiman-917289b6/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/klogpok",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/oleg.kleiman.1",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"skype",
+        "url":"skype:klubenok",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Coding Academy",
+        "degree":"Web developer",
+        "graduated":"July 2017",
+        "description":"An intensive coding bootcamp (540 hours) that qualifies Web developers. Built several projects, all code is available on Github for code review."
+      },
+      {
+        "school":"HakerU College",
+        "degree":"DBA specialist",
+        "graduated":"February 2016",
+        "description":"This course teaches the DBA (Database Administrator) profession based on Microsoft SQL Server.It covers all the aspects of the DBA work and all the components and features in SQL Server. "
+      },
+      {
+        "school":"Tel Aviv Yaffo College",
+        "degree":"B.Sc in Computer Science",
+        "graduated":"October 2003 - January 2005",
+        "description":""
+      }
+    ],
+    "works":[
+      {
+        "company":"Main Logistic Center , Shupersal",
+        "title":"Team lead of control room",
+        "years":"April 2013 - present",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"javascript",
+        "level":"70%",
+        "tag": "language"
+      },
+      {
+        "name":"reactjs",
+        "level":"60%",
+        "tag": "language"
+
+      },
+      {
+        "name":"vuejs",
+        "level":"60%",
+        "tag": "language"
+      },
+      {
+        "name":"css3",
+        "level":"80%",
+        "tag": "language"
+      },
+      {
+        "name":"html5",
+        "level":"80%",
+        "tag": "language"
+      },
+      {
+        "name":"jquery",
+        "level":"50%",
+        "tag": "language"
+      },
+      {
+        "name":"wordpress",
+        "level":"50%",
+        "tag": "language"
+      },
+      {
+        "name":"sass",
+        "level":"55%",
+        "tag": "language"
+      },
+      {
+        "name":"php",
+        "level":"60%",
+        "tag": "language"
+      },
+      {
+        "name":"nodejs",
+        "level":"45%",
+        "tag": "language"
+      },
+      {
+        "name":"mysql",
+        "level":"65%",
+        "tag": "language"
+      },
+      {
+        "name":"sql",
+        "level":"70%",
+        "tag": "language"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"React.js Portfolio",
+        "description":"",
+        "category":"React.js, Web Development",
+        "tags":"",
+        "image":"portfolio.png",
+        "url":"http://dev-go.xyz",
+        "git": "https://github.com/klogpok/react-portfolio",
+        "modal":"modal-01"
+      },
+      {
+        "title":"Project Muse",
+        "description":"",
+        "category":"PHP, Music",
+        "tags":"",
+        "image":"muse.png",
+        "url":"http://dev-go.xyz/projects/muse/",
+        "git": "https://bitbucket.org/klogpok/muse",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Meme generator",
+        "description":"",
+        "category":"JavaScript, Canvas",
+        "tags":"",
+        "git": "https://github.com/tuval1/sprint2",
+        "image":"meme.png",
+        "url":"http://dev-go.xyz/projects/meme/",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"Notes App",
+        "description":"",
+        "category":"React.js, Web Development",
+        "tags":"",
+        "git": "https://github.com/klogpok/notes-app",
+        "image":"notes.jpeg",
+        "url":"http://dev-go.xyz/projects/notes-app/",
+        "modal":"#modal-08"
+      },
+      {
+        "title":"Wixer",
+        "description":"",
+        "category":"Vue.js, Web Development",
+        "tags":"",
+        "git": "https://github.com/Lariska/final-sprint",
+        "image":"wix.jpg",
+        "url":"https://coding-final-sprint.herokuapp.com/#/",
+        "modal":"#modal-08"
+      },
+      {
+        "title":"Touch the numbers",
+        "description":"",
+        "category":"Vanilla JavaScript, Games",
+        "tags":"Branding, Web Development",
+        "git": "https://github.com/klogpok/touch",
+        "image":"touch2.png",
+        "url":"http://dev-go.xyz/projects/touch/",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"BooksAreUs",
+        "description":"",
+        "category":"Vanilla JavaScript",
+        "tags":"Branding, Web Design",
+        "git": "https://github.com/klogpok/books",
+        "image":"books2.jpg",
+        "url":"http://dev-go.xyz/projects/books/",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Minesweeper",
+        "description":"",
+        "category":"Vanilla JavaScript, Games",
+        "tags":"Branding, Web Programming",
+        "git": "https://github.com/klogpok/minesweeper",
+        "image":"minesweeper2.png",
+        "url":"http://dev-go.xyz/projects/minesweeper/",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Calculator",
+        "description":"",
+        "category":"Vanilla JavaScript",
+        "tags":"Photography, Graphic Design",
+        "git": "https://github.com/klogpok/calc",
+        "image":"calc2.jpg",
+        "url":"http://dev-go.xyz/projects/calc/",
+        "modal":"#modal-06"
+      }
+    ]
+  }
+}
